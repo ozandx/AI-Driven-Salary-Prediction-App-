@@ -1,4 +1,4 @@
-# 💼 AI-Powered Job Salary Prediction
+# 💼 AI-Driven Salary Prediction App 
 
 A simple machine learning web application built with **Streamlit** that predicts an employee's salary based on the number of years at the company and their job rating.
 
